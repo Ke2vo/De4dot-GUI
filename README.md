@@ -1,6 +1,3 @@
-# De4dot-GUI
-a gui for de4dot, clean ui, easy!
-
 # Features
 - Open Source
 - Clean and Modern UI
