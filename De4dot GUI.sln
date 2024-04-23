@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De4dot GUI", "De4dot GUI.csproj", "{3F625006-ED12-42C5-9D8C-FE6260462B6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F625006-ED12-42C5-9D8C-FE6260462B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F625006-ED12-42C5-9D8C-FE6260462B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F625006-ED12-42C5-9D8C-FE6260462B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F625006-ED12-42C5-9D8C-FE6260462B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7053CD18-5E15-43D0-B057-186A8544F1A3}
+	EndGlobalSection
+EndGlobal

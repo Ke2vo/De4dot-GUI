@@ -1,0 +1,12 @@
+H:\C# Projects\De4dot GUI\bin\Debug\De4dot GUI.exe.config
+H:\C# Projects\De4dot GUI\bin\Debug\De4dot GUI.exe
+H:\C# Projects\De4dot GUI\bin\Debug\De4dot GUI.pdb
+H:\C# Projects\De4dot GUI\bin\Debug\Guna.UI2.dll
+H:\C# Projects\De4dot GUI\obj\Debug\De4dot GUI.csproj.AssemblyReference.cache
+H:\C# Projects\De4dot GUI\obj\Debug\De4dot_GUI.Form1.resources
+H:\C# Projects\De4dot GUI\obj\Debug\De4dot_GUI.Properties.Resources.resources
+H:\C# Projects\De4dot GUI\obj\Debug\De4dot GUI.csproj.GenerateResource.cache
+H:\C# Projects\De4dot GUI\obj\Debug\De4dot GUI.csproj.CoreCompileInputs.cache
+H:\C# Projects\De4dot GUI\obj\Debug\De4dot GUI.csproj.Up2Date
+H:\C# Projects\De4dot GUI\obj\Debug\De4dot GUI.exe
+H:\C# Projects\De4dot GUI\obj\Debug\De4dot GUI.pdb
